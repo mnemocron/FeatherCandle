@@ -234,10 +234,6 @@ For all the world to see.
 
 ☐ test battery lifetime
 
-☐ adapt `FeatherCandleFeather.ino` with correct pinouts
-
-☐ parse the polling interval parameter to be actually used in `[feathercandle-huzzah.ino]`
-
 ☐ add secure api interface (https requests / port 8883 for SSL)
 
 ---
