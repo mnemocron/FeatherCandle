@@ -3,16 +3,13 @@
 
 ---
 
-## Hardware (Work In Progress)
+## Hardware
 
-Updated KiCAD files and Software will be released soon.
+KiCAD project and gerber files.
 
-### Issues
+__Note__
 
-- Heart shape is on the wrong layer (should be on the copper layer like the OSHW logo)
-- micro USB breakout board is on the wrong PCB side (should be on the back)
-- battery holder: incorrect drill hole position
-- wrong footprint for resistors (should be 0805 instead of 0603)
+`feather-candle-gerbers-2018-02-23.zip` are the previous gerbers which contain some issues.
 
 ---
 
