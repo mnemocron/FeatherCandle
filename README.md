@@ -58,15 +58,16 @@ This is the partlist for the WiFi enabled candle.
 
 | Description | Value | Manufacturer | Pcs. | Part. Nr. (mouser) | price (estimation) |
 |-------------|------:|--------------|-----:|-------------------:|------------------------:|
-| Candle PCB | - | - | 1 | - | $ 10.00 |
+| Candle PCB | - | - | 1 |  | $ 10.00 |
 | 15x7 CharliePlex LED Matrix FeatherWing (warm white) | - | [Adafruit (3163)](https://www.adafruit.com/product/3163) | 1 | [485-3163](https://www.mouser.com/ProductDetail/Adafruit/3163?qs=%2fha2pyFaduh%252brbpYDT4hI1KcasFFaXTHrw3K2WUgkuI%3d) | $ 13.30 |
 | Feather HUZZAH with ESP8266 WiFi | - | [Adafruit (2821)](https://www.adafruit.com/product/2821) | 1 | [485-2821](https://www.mouser.com/ProductDetail/Adafruit/2821?qs=%2fha2pyFadujIGPK6Sj3t4nFuChuwEnz5Imbr6Do1gT8%3d) | $ 18.00 |
 | Trinket M0 | - | [Adafruit (3500)](https://www.adafruit.com/product/3500) | 1 | [485-3500](https://www.mouser.com/ProductDetail/Adafruit/3500?qs=%2fha2pyFadugsjdovVS3NFiBTcocohBou1VlJ%2f0Oc5Cc%3d) | $ 9.20 |
 | 18650 battery clip SMT | - | [Keystone Electronics](http://www.keyelco.com/product.cfm/product_id/918) | (1) | [534-1042P](https://www.mouser.com/ProductDetail/Keystone-Electronics/1042P?qs=%2fha2pyFadujc2h3Qsi2FB10kgPaLAXTlnLXyd23eJ7VFgPTKWvV%2fxw%3d%3d) | $ 3.10 |
-| 18650 Li-Ion battery 3.7V | - | - | (1) | - |  |
-| Resistor SMD 0805 | 10k | - | 2 | eg. [71-RCG080510K0JNEA](https://www.mouser.com/ProductDetail/71-RCG080510K0JNEA) | $ 0.10 |
-| Resistor SMD 0805 | 330R | - | 1 | eg. [71-CRCW0805-330-E3](https://www.mouser.com/ProductDetail/71-CRCW0805-330-E3) | $ 0.10 |
-| LED 0805 | - | - | 1 | - |  |
+| 18650 Li-Ion battery 3.7V | - | - | (1) |  |  |
+| Resistor SMD 1206 | 10k | - | 2 | 
+ | $ 0.10 |
+| Resistor SMD 1206 | 330R | - | 1 |  | $ 0.10 |
+| LED 0805 | - | - | 1 |  |  |
 | Pushbutton SMD 12mm | - | - | 1 | eg. [611-PTS125SK43SMTR2](https://www.mouser.com/ProductDetail/611-PTS125SK43SMTR2) | $ 0.50 |
 | Pushbutton SMD 6.2mm | - | - | 1 | eg. [611-KSC701GLFS](https://www.mouser.com/ProductDetail/611-KSC701GLFS) | $ 0.50 |
 | Capacitor SMD 1206 | 100uF | - | (2) |  |
