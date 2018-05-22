@@ -97,6 +97,7 @@ Places where you can order custom circuit boards (selection):
 > - [Aisler](https://aisler.net/products/boards)
 > - [DirtyPCBs](http://dirtypcbs.com/store/pcbs)
 > - [Elecrow](https://www.elecrow.com/pcb-manufacturing.html)
+> - [JLCPCB](https://jlcpcb.com/quote)
 > - [PCBCart](https://www.pcbcart.com/)
 > - ([Aliexpress](https://www.aliexpress.com/category/521/pcb-pcba.html))
 
