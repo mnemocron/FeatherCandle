@@ -24,7 +24,7 @@ The project is built around the Adafruit Feather boards and uses the 15x7 LED ma
 
 ## Hardware
 
-There are three different variants for the hardware configuration which ultimately determines the functionality and software capabilities. **Yes you can built just the candle without WiFi.**
+There are three different variants for the hardware configuration which ultimately determines the functionality and software capabilities. **Yes you can build just the candle without WiFi.**
 
 ![](pictures/candle-hanging.jpg)
 The candle can also be hung from the ceiling.
@@ -103,7 +103,7 @@ Places where you can order custom circuit boards (selection):
 
 ---
 
-## Sorftware
+## Software
 
 Setting up the Arduino IDE:
 
